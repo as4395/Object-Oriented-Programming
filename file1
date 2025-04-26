@@ -1,9 +1,0 @@
-#!/bin/bash
-
-# file1.sh
-# A script with 50 echo lines
-
-for i in {1..50}
-do
-    echo "This is line $i of file1"
-done
