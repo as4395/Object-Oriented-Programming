@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# file2.sh
+# A script with 50 date outputs
+
+for i in {1..50}
+do
+    echo "Current date and time ($i): $(date)"
+done
