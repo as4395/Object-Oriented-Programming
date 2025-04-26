@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# file3.sh
+# A script with 50 "loading" steps
+
+for i in {1..50}
+do
+    echo "Loading... Step $i/50"
+    sleep 0.1
+done
+echo "Loading complete!"
