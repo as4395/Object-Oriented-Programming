@@ -6,4 +6,4 @@ Please use the following mailing structure in your code:
 	Street address (title case)  
 	City (title case), State (upper) Zip-code (no formatting)
 
-Treat special cases such as those with postal codes, outside of the United States, or empty strings when testing with conditional statements.
+Treat special cases such as those with postal codes, outside of the United States, or empty strings when testing with **conditional statements**.
